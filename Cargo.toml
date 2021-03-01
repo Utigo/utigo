@@ -1,0 +1,17 @@
+[package]
+name = "utigo"
+version = "0.1.0"
+edition = "2018"
+authors = ["ouliuquan <ouliuquan@utigo.org>"]
+license = "MIT OR Apache-2.0"
+homepage = "https://utigo.org"
+repository = "https://github.com/utigo/utigo"
+documentation = "https://docs.utigo.org/utigo"
+categories = ["compilers", "development-tools"]
+keywords = ["c", "cpp", "libraries", "packages", "package-manager"]
+readme = "README.md"
+description = """
+Utigo, a package manager for C++.
+"""
+
+[dependencies]
